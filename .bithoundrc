@@ -1,0 +1,43 @@
+{
+  "dependencies": {
+    "unused-ignores": [
+      "babel",
+      "babel-core",
+      "babel-loader",
+      "bootstrap",
+      "chai",
+      "coveralls",
+      "cucumber",
+      "css-loader",
+      "css-reset",
+      "eslint",
+      "eslint-plugin-react",
+      "file-loader",
+      "flux",
+      "font-awesome",
+      "gulp",
+      "gulp-eslint",
+      "gulp-istanbul",
+      "gulp-mocha",
+      "gulp-util",
+      "gutil",
+      "isparta",
+      "jquery",
+      "jsdom",
+      "mocha",
+      "mocha-sinon",
+      "node-sass",
+      "protractor",
+      "react",
+      "react-bootstrap",
+      "react-hot-loader",
+      "rewire",
+      "rimraf",
+      "sass-loader",
+      "sinon",
+      "style-loader",
+      "url-loader",
+      "webpack"
+    ]
+  }
+}
